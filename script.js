@@ -1,9 +1,11 @@
 
 const texts=[
-"நான் உன்னை காயப்படுத்திட்டேன் 😔",
-"ஆனா உன்னை இழக்க நான் முடியாது 😭",
-"உன்னோட சிரிப்பு இல்லாமல் என் நாள் வெறுமை 💔",
-"மன்னிச்சுடு... நான் மாறுறேன் 🙏"
+"naa una romba hurt pannita 😔",
+"naa venum nu panathala dii yedho kovadhula pannita 😭",
+"naa pannadhu thappu thaa sorry  dii adhukaga pesamala erukkatha 💔",
+"mannuchu dii chellame 🙏",
+"naa apdi pesi  erukka kudadhu wait pannura sariyaa"
+    
 ];
 
 let i=0;
@@ -27,7 +29,7 @@ function nextLine(){
 }
 
 function forgive(){
-    alert("😭❤️ Thank you... இனிமேல் உன்னை காயப்படுத்த மாட்டேன் 💖");
+    alert("😭❤️ Thank you... dii enime apdi pesa mate promise 💖");
 }
 
 // hearts animation
